@@ -1,0 +1,11 @@
+/node_modules
+/.next/
+**/.git
+.vscode/
+.cache
+package-lock.json
+public
+next-env.d.ts
+next.config.ts
+yarn.lock
+.husky/
